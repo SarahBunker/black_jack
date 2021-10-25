@@ -23,12 +23,12 @@ Some things that I learned while working on this project.
   - add a system pause between dealer moves
   - add multiple players
   - use the known cards to show probability to help train card counting
-  - show text based version of card
+  - show text based version of card/
 "------"\
 "|&nbsp;&nbsp;&nbsp;&nbsp;A|"\
 "|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|"\
 "|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|"\
-"------"\
+"------"
   - add automatic stand if player has 21
   - add double down
   - add split
