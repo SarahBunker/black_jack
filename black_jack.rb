@@ -319,7 +319,7 @@ class GameBlackJack
   end
 
   def welcome_message
-    puts "Welcome to Twenty-One. Let's play"
+    puts "Welcome to Black-Jack. Let's play"
     puts
   end
 
