@@ -45,7 +45,7 @@ class Hand
   attr_writer :total
 
   def total
-    self.total = cards.reduce(0) { |sum,card| card.value + sum}
+    self.total = cards.reduce(0) { |sum, card| card.value + sum }
   end
 
   def ace_to_one
@@ -221,7 +221,7 @@ class Participant
   def new_card(card)
     hand << card
   end
-  
+
   def show_total
     puts "The total is --- #{total}"
   end
