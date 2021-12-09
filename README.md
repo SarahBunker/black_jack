@@ -20,7 +20,7 @@ Some things that I learned while working on this project.
 
 ## Future ideas for this project:
   - add a betting system
-  - add a system pause between dealer moves
+  - add a system pause between dealer moves (#sleep)
   - add multiple players
   - use the known cards to show probability to help train card counting
   - show text based version of card  
